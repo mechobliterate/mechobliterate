@@ -23,5 +23,5 @@ Currently, I serve as the Founder & CEO of The Software Applications Company of 
 
 ## Contact Me
 - [in/josiahroyal](https://www.linkedin.com/in/josiahroyal/) - LinkedIn
-- - [hey@mechobliterate.com](mailto:hey@mechobliterate.com) - Email
+- [hey@mechobliterate.com](mailto:hey@mechobliterate.com) - Email
 - [@mechobliterate](https://x.com/mechobliterate) - X (formerly Twitter)
