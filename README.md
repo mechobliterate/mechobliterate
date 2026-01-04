@@ -22,5 +22,6 @@ Currently, I serve as the Founder & CEO of The Software Applications Company of 
 - [Guest Engineer Showcase](https://www.singlestore.com/) - SingleStore
 
 ## Contact Me
+- [hey@mechobliterate.com](mailto:hey@mechobliterate.com) - Email
 - [in/josiahroyal](https://www.linkedin.com/in/josiahroyal/) - LinkedIn
 - [@mechobliterate](https://x.com/mechobliterate) - X (formerly Twitter)
