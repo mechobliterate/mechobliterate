@@ -3,7 +3,7 @@
 
 ## Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-My name is Josiah, and I am a Design Engineer and Entrepreneur based in New York City.
+My name is Josiah, and I am a Software Engineer and Entrepreneur based in New York City.
 
 Throughout my engineering and entrepreneurial career, I have often been described as driven, passionate, and innovative. With this mindset, I have come to recognize the complex responsibilities it entails. I focus on optimizing processes for both present and emerging technologies, and I have a strong interest in business analytics and machine learning. By continuously challenging myself, I apply my problem-solving skills to develop unique solutions that not only achieve current goals but also have the potential to create meaningful, global impact.
 
