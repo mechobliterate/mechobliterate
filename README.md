@@ -24,5 +24,5 @@ Previously, I interned at [Pinterest](https://pinterest.com) as a Content & Vert
 During the same period, I worked at [Deloitte](https://www.deloitte.com/) as a Cybersecurity & Risk Intern within the firm's Risk & Financial Advisory practice. Deloitte advises organizations on navigating complex risk across technology, security, and regulatory environments. I supported Cyber Risk Services negagements focused on threat detection, vulnerabiity management, and governance assessments, and assisted in evaluating and implementing cybersecurity controls aligned with NISTand ISO 27001 standards. I collaborated with advisory teams on penetration testing simulations, contributed to client-facing remediation strategies, and gained practical exposure to cloud security, identity and access management, and compliance frameworks. Alongside client work, I contributed to internal research exploring AI-enabled threat modeling and emerging attack vectors in enterprise cloud environments.
 
 ## Contact Me
-- [in/josiahroyal](https://www.linkedin.com/in/mechobliterate/) - LinkedIn
+- [in/mechobliterate](https://www.linkedin.com/in/mechobliterate/) - LinkedIn
 - [hey@mechobliterate.com](mailto:hey@mechobliterate.com) - Email
