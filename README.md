@@ -11,9 +11,11 @@ Beyond technical execution, I maintain a strong commitment to continuous learnin
 
 ## Projects
 
-Previously, I worked at [The Browser Company](https://thebrowser.company) as the Head of Product. The Browser Company is a pioneering technology firm focused on reimagining how people experience the internet. Its flagship products, Arc and Dia, are next-generation web platforms that create more intuitive, powerful, and user-centric browsing experiences. At The Browser Company, I drove product vision, strategy, and execution, leading cross-functional teams across engineering, design, and research to deliver breakthrough user experiences. I also architected systems and processes that balanced rapid iteration with long-term technical resilience. I now serve as one of the ambassadors for their latest and future products, representing the brand and supporting its ongoing growth and innovation.
+In 2022, I served as the Head of Product at Geode Host, an infrastructure and hosting company operating enterprise-grade server environments acorss U.S. and European regions. At Geode Host, I led the end-to-end development of a custom real-time server management panel — owning the product from architecture through execution — while overseeing the build-out of hosting infrastructure designed for reliability, low latency, and scale across international deployments. I drove the product roadmap and worked closely with engineering to deliver tooling that gave operators precise, real-time visibility and control over complex server environments.
 
-I'm building an independent company in New York City focused on rethinking the personal computing experience. Early-stage and private — more details to come.
+In 2024, I worked at [The Browser Company](bcny.com) as the Head of Product. The Browser Company is a pioneering technology firm focused on reimagining how people experience the internet. Its flagship products, Arc and Dia, are next-generation web platforms that create more intuitive, powerful, and user-centric browsing experiences. At The Browser Company, I drove product vision, strategy, and execution, leading cross-functional teams across engineering, design, and research to deliver breakthrough user experiences. I also architected systems and processes that balanced rapid iteration with long-term technical resilience. I now serve as one of the ambassadors for their latest and future products, representing the brand and supporting its ongoing growth and innovation.
+
+At present, I'm building an independent company in New York City focused on rethinking the personal computing experience. Early-stage and private — more details to come.
 
 ## Internships
 
