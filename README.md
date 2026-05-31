@@ -25,7 +25,7 @@ During the same period, I worked at [Deloitte](https://www.deloitte.com/) as a C
 
 ## Leadership
 
-I serve in the Graphics Campus NJROTC unit in New York City. As Regimental Executive Officer (May 2026 – Present), I'm second in command — directly supporting the Commanding Officer in unit operations, personnel management, and institutional rebuild, and acting as the bridge between command and department heads to translate leadership direction into execution. Previously, as Administration Officer (Dec 2025 – Present), I held senior cadet authority over all official records, administrative systems, and unit documentation — owning the full admin lifecycle from promotions and awards to onboarding, offboarding, and inspection-ready recordkeeping.
+I serve in the Graphics Campus NJROTC unit in New York City. As Regimental Executive Officer (May 2026 – Present), I'm second in command — directly supporting the Commanding Officer in unit operations, personnel management, and institutional rebuild, and acting as the bridge between command and department heads to translate leadership direction into execution. Seaminglessly, as the Administration Officer (Dec 2025 – Present), I hold senior cadet authority over all official records, administrative systems, and unit documentation — owning the full admin lifecycle from promotions and awards to onboarding, offboarding, and inspection-ready recordkeeping.
 
 ## Contact Me
 - [x/mechobliterate](https://x.com/mechobliterate) - X (formerly Twitter)
