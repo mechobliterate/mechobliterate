@@ -23,11 +23,6 @@ In summer 2025, I interned at [Pinterest](https://pinterest.com) as a Content & 
 
 During the same period, I worked at [Deloitte](https://www.deloitte.com/) as a Cybersecurity & Risk Intern within the firm's Risk & Financial Advisory practice (Jun – Aug 2025). Deloitte advises organizations on navigating complex risk across technology, security, and regulatory environments. I supported Cyber Risk Services engagements focused on threat detection, vulnerability management, and governance assessments, and assisted in evaluating and implementing cybersecurity controls aligned with NIST and ISO 27001 standards. I collaborated with advisory teams on penetration testing simulations, contributed to client-facing remediation strategies, and gained practical exposure to cloud security, identity and access management, and compliance frameworks. Alongside client work, I contributed to internal research exploring AI-enabled threat modeling and emerging attack vectors in enterprise cloud environments.
 
-## Leadership
-
-I serve in the Graphics Campus NJROTC unit in New York City. As Regimental Executive Officer (May 2026 – Present), I'm second in command — directly supporting the Commanding Officer in unit operations, personnel management, and institutional rebuild, and acting as the bridge between command and department heads to translate leadership direction into execution. Seaminglessly, as the Administration Officer (Dec 2025 – Present), I hold senior cadet authority over all official records, administrative systems, and unit documentation — owning the full admin lifecycle from promotions and awards to onboarding, offboarding, and inspection-ready recordkeeping.
-
 ## Contact Me
-- [x/mechobliterate](https://x.com/mechobliterate) - X (formerly Twitter)
 - [in/mechobliterate](https://www.linkedin.com/in/mechobliterate/) - LinkedIn
 - [hey@mechobliterate.com](mailto:hey@mechobliterate.com) - Email
