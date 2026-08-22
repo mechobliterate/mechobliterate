@@ -15,7 +15,7 @@ As Chief Executive Officer of Analyse (Feb 2021 – Oct 2022), I built an analyt
 
 As Co-Founder & Head of Product at Geode Host (Jul 2021 – Jun 2023), I spent roughly a year architecting and optimizing Minecraft server infrastructure across Java and Bedrock networks — managing live incident response, performance diagnostics, and scalable system design. As Head of Product, I led development of a custom real-time server management panel and enterprise-grade hosting infrastructure across U.S. and European regions, owning the product from architecture through execution.
 
-At present, I'm building the Software Applications Company of New York, an independent company in New York City focused on rethinking the personal computing experience.
+At present, I'm building Play Games Interactive, an independent company in New York City focused on providing Minecraft players with the true essence of Minecraft. 
 
 ## Internships
 
